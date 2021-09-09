@@ -1,1 +1,1 @@
-Maquina de Vendas
+Maquina de Vendas 1.0
